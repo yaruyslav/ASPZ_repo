@@ -68,7 +68,6 @@ int main(void) {
             } else if (state==2) {
                 printf("Memory is reloaded and has size %d!\n", len);
             }
-            // printf("%d\n", state);
         } else if (*(choi)=='e'&&*(choi+1)=='x') {
             break;
         }
