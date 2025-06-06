@@ -1,0 +1,4 @@
+Some text in file saved)))
+
+I can write in buffer
+and then save information in file.
